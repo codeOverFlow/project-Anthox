@@ -1,0 +1,9 @@
+venv/
+env/
+.idea/
+
+AnthoxReplay/broadcast/__pycache__/
+
+AnthoxReplay/AnthoxReplay/__pycache__/
+
+AnthoxReplay/broadcast/migrations/__pycache__/
